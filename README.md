@@ -375,3 +375,17 @@ void FixRBTree(Node* node) {
 <HR>
 
 ### 사용방법
+  
+![제목 없음](https://user-images.githubusercontent.com/93738662/148175173-64305a02-19d3-4897-9928-cad181caaac5.png)
+
+1. 처음은 TEST CASE 수를 입력 받는다
+2. 그 후 I를 통해 노드를 입력받아 트리를 만든다.
+
+### 명령어
+
++ F ID
+  - FIND 기능
++ R ID NAME SIZE PRICE
+  - UPDATE 기능
++ D RANGE1 RANGE2 PERCENT
+  - 범위A ~ 범위B의 노드들의 가격 할인율은 변경한다
