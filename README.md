@@ -1,4 +1,4 @@
-# RED-BLACK_TREE
+# RED-BLACK_TREE <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaka9131%2FRED-BLACK_TREE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### 1. 개요
 + 레드 블랙 트리를 통해 자료의 삽입과, 삭제, 검색을 수행 할 때  일정한 처리 속도를 보장한다.
